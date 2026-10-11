@@ -1,0 +1,6 @@
+table,rows_match,patients_match,dates_match,money_src,money_tgt,money_diff
+patients,True,True,True,1461016960.62,1461016960.52,-0.09999990463256836
+encounters,True,True,True,255033828.03,255033828.04,0.009999990463256836
+conditions,True,True,True,,,
+medications,True,True,True,73907812.43,73907812.43,0.0
+observations,True,True,True,,,
